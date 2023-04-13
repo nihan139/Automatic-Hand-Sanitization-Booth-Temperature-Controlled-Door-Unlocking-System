@@ -49,6 +49,14 @@ Control System Project
 
 <br> <br>
 
+
+
+## **Project Demo**
+[![](Thumbnail.jpg)](https://drive.google.com/file/d/1ITttmFjY6Fph-0KfhpGj6HvpyKdn35qe/view?usp=sharing)
+
+<br>
+
+
 ## **Contributors**
 1. Md. Tasnim Azad
 2. Samin Zawad
